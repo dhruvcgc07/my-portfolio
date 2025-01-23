@@ -1,0 +1,94 @@
+body {
+  background-color: #181C14;
+  color: white;
+}
+#div0 {
+  display: flex;
+}
+#div1 {
+  background-color: #3C3D37;
+  width: 16%;
+  height: 35rem;
+  border-radius: 10px;
+  margin-left: 1%;
+  margin-top: 2%;
+  display: inline-block;
+  position: fixed;
+  z-index: 1;
+}
+img {
+  width: 80%;
+  border-radius: 10px;
+  margin-top: 8%;
+  margin-left: 10%;
+}
+#imgtext {
+  text-align: center;
+}
+.text1 {
+  margin: auto;
+  background-color: rgb(46, 47, 48);
+  width: 80%;
+  height: 50px;
+  text-align: center;
+  align-content: center;
+  border-radius: 5px;
+}
+.text2 > ul {
+  list-style: none;
+  text-align: center;
+  margin-left: -3vw;
+  font-size: 1vw;
+}
+.text2 > ul > li {
+  margin-top: 2%;
+}
+#div2 {
+  background-color: #3C3D37;
+  width: 80%;
+  height: auto;
+  border-radius: 10px;
+  margin-left: 20%;
+  margin-top: 2%;
+  display: inline-block;
+}
+#div3 {
+  background-color: #697565;
+  width: 70%;
+  height: auto;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  margin-left: 30%;
+}
+#div3 > nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+#div3 > nav > ul > li {
+  padding-left: 7%;
+  display: inline;
+  margin-left: 3%;
+  font-size: 170%;
+}
+#div3 > nav > ul > li :hover {
+  background-color: rgb(51, 61, 70);
+}
+#div3 > nav > ul > li > a {
+  color: white;
+}
+#div4 {
+  width: 90%;
+  border-radius: 10px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+#div4 > p {
+  font-size: larger;
+}
+#div5{
+  margin-top: 15%;
+ border: 2px #fcfcfc solid ;
+ border-radius: 10px;
+ padding: 20px;
+}
